@@ -1,10 +1,5 @@
 {
 .appVersion = "3105";
-DisplayStrings = (
-"/ornament354",
-"/c_t.dlig",
-A
-);
 classes = (
 {
 automatic = 1;
@@ -34261,25 +34256,6 @@ rightKerningGroup = zero.sups;
 rightMetricsKey = zero.sups;
 },
 {
-glyphname = CR;
-layers = (
-{
-layerId = "6D97EE47-94AA-478E-ABFB-936E6C32B491";
-width = 600;
-}
-);
-unicode = 000D;
-},
-{
-glyphname = NULL;
-layers = (
-{
-layerId = "6D97EE47-94AA-478E-ABFB-936E6C32B491";
-width = 600;
-}
-);
-},
-{
 glyphname = space;
 lastChange = "2021-12-08 11:02:53 +0000";
 layers = (
@@ -36018,21 +35994,6 @@ width = 376;
 leftKerningGroup = hyphen;
 rightKerningGroup = hyphen;
 unicode = 002D;
-},
-{
-glyphname = softhyphen;
-layers = (
-{
-components = (
-{
-name = hyphen;
-}
-);
-layerId = "6D97EE47-94AA-478E-ABFB-936E6C32B491";
-width = 376;
-}
-);
-unicode = 00AD;
 },
 {
 glyphname = endash;
