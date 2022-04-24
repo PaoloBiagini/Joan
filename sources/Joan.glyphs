@@ -1,6 +1,9 @@
 {
 .appVersion = "3108";
 .formatVersion = 3;
+DisplayStrings = (
+"AÁĂÂÄẠÀĀĄÅǺÃÆǼBCĆČÇĈĊDÐĎĐEÉĔĚÊËĖẸÈĒĘẼƏFGǴĞǦĜĢĠHĦȞĤIĲÍĬÎÏİỊÌĪĮĨJ/Jacute ĴKĶLĹĽĻĿŁMNŃŇŅƝÑŊOÓŎÔÖỌÒŐŌǪØǾÕŒPÞQRŔŘŖSŚŠŞŜȘẞTŦŤŢȚṬUÚŬÛÜỤÙŰŪŲŮŨVWẂŴẄẀXYÝŶŸỲȲỸZŹŽẐŻ/Cacute.loclPLK/Nacute.loclPLK/Oacute.loclPLK/Sacute.loclPLK/Zacute.loclPLK/K.ss01/Kcommaaccent.ss01/Q.ss01/R.ss01/Racute.ss01/Rcaron.ss01/Rcommaaccent.ss01/Y.ss01/Yacute.ss01/Ycircumflex.ss01/Ydieresis.ss01/Ygrave.ss01/Ymacron.ss01/Ytilde.ss01/Z.ss01/Zacute.ss01/Zcaron.ss01/Zcircumflex.ss01/Zdotaccent.ss01/A.ss10/B.ss10/C.ss10/D.ss10/E.ss10/F.ss10/G.ss10/H.ss10/I.ss10/J.ss10/K.ss10/L.ss10/M.ss10/N.ss10/O.ss10/P.ss10/Q.ss10/R.ss10/S.ss10/T.ss10/U.ss10/V.ss10/W.ss10/X.ss10/Y.ss10/Z.ss10/Zacute.loclPLK.ss01/T_T.liga/T_h.liga aáăâäạàāąåǻãæǽbcćčçĉċdðďđeéĕěêëėẹèēęẽəfgǵğǧĝģġhħȟĥiıíĭîï/idotaccent ịìĳīįĩjȷ/jacute ĵkķĸlĺľļŀłmnńŉňņɲñŋoóŏôöọòőōǫøǿõœpþqrŕřŗsśšşŝșßſtŧťţțṭuúŭûüụùűūųůũvwẃŵẅẁxyýŷÿỳȳỹzźžẑżᴀʙᴄ/germandbls.calt ᴅᴇꜰɢʜɪᴊᴋʟ/cacute.loclPLK/nacute.loclPLK/oacute.loclPLK/sacute.loclPLK/zacute.loclPLK ᴍɴᴏᴘʀꜱᴛᴜᴠᴡʏᴢ/c_t.dlig/f_b.liga/f_f.liga/f_f_b.liga/f_f_f_l.liga/f_f_h.liga/f_f_i.liga/f_f_j.liga/f_f_k.liga/f_f_l.liga/f_f_t.liga/f_h.liga/f_i.liga/f_j.liga/f_k.liga/f_l.liga/f_t.liga/s_p.dlig/s_t.dlig/longs_b.liga/longs_h.liga/longs_i.liga/longs_j.liga/longs_k.liga/longs_l.liga/longs_longs.liga/longs_longs_b.liga/longs_longs_h.liga/longs_longs_i.liga/longs_longs_j.liga/longs_longs_k.liga/longs_longs_l.liga/longs_longs_t.liga/longs_t.liga/t_f.liga/t_longs.liga/t_t.sc.liga/aacute.sc/abreve.sc/acircumflex.sc/adieresis.sc/adotbelow.sc/agrave.sc/amacron.sc/aogonek.sc/aring.sc/aringacute.sc/atilde.sc/ae.sc/aeacute.sc/cacute.sc/ccaron.sc/ccedilla.sc/ccircumflex.sc/cdot.sc/eth.sc/dcaron.sc/dcroat.sc/eacute.sc/ebreve.sc/ecaron.sc/ecircumflex.sc/edieresis.sc/edotaccent.sc/edotbelow.sc/egrave.sc/emacron.sc/eogonek.sc/etilde.sc/schwa.sc/gacute.sc/gbreve.sc/gcaron.sc/gcircumflex.sc/gcommaaccent.sc/gdotaccent.sc/hbar.sc/hcaron.sc/hcircumflex.sc/idotless.sc/iacute.sc/ibreve.sc/icircumflex.sc/idieresis.sc/idotaccent.sc/idotbelow.sc/igrave.sc/ij.sc/imacron.sc/iogonek.sc/itilde.sc/jacute.sc/jcircumflex.sc/kcommaaccent.sc/lacute.sc/lcaron.sc/lcommaaccent.sc/ldot.sc/lslash.sc/nacute.sc/ncaron.sc/ncommaaccent.sc/nhookleft.sc/ntilde.sc/eng.sc/oacute.sc/obreve.sc/ocircumflex.sc/odieresis.sc/odotbelow.sc/ograve.sc/ohungarumlaut.sc/omacron.sc/oogonek.sc/oslash.sc/oslashacute.sc/otilde.sc/oe.sc/thorn.sc/q.sc/racute.sc/rcaron.sc/rcommaaccent.sc/sacute.sc/scaron.sc/scedilla.sc/scircumflex.sc/scommaaccent.sc/germandbls.sc/tbar.sc/tcaron.sc/tcedilla.sc/tcommaaccent.sc/tdotbelow.sc/uacute.sc/ubreve.sc/ucircumflex.sc/udieresis.sc/udotbelow.sc/ugrave.sc/uhungarumlaut.sc/umacron.sc/uogonek.sc/uring.sc/utilde.sc/wacute.sc/wcircumflex.sc/wdieresis.sc/wgrave.sc/x.sc/yacute.sc/ycircumflex.sc/ydieresis.sc/ygrave.sc/ymacron.sc/ytilde.sc/zacute.sc/zcaron.sc/zcircumflex.sc/zdotaccent.sc/cacute.loclPLK.sc/nacute.loclPLK.sc/oacute.loclPLK.sc/sacute.loclPLK.sc/zacute.loclPLK.sc/k.sc.ss01/kcommaaccent.sc.ss01/q.sc.ss01/r.sc.ss01/racute.sc.ss01/rcaron.sc.ss01/rcommaaccent.sc.ss01/y.sc.ss01/yacute.sc.ss01/ycircumflex.sc.ss01/ydieresis.sc.ss01/ygrave.sc.ss01/ymacron.sc.ss01/ytilde.sc.ss01/z.sc.ss01/zacute.sc.ss01/zcaron.sc.ss01/zcircumflex.sc.ss01/zdotaccent.sc.ss01/a.sc.ss10/b.sc.ss10/c.sc.ss10/d.sc.ss10/e.sc.ss10/f.sc.ss10/g.sc.ss10/h.sc.ss10/i.sc.ss10/j.sc.ss10/k.sc.ss10/l.sc.ss10/m.sc.ss10/n.sc.ss10/o.sc.ss10/p.sc.ss10/q.sc.ss10/r.sc.ss10/s.sc.ss10/t.sc.ss10/u.sc.ss10/v.sc.ss10/w.sc.ss10/x.sc.ss10/y.sc.ss10/z.sc.ss10/zacute.loclPLK.sc.ss01/a.subs/b.subs/c.subs/d.subs/e.subs/f.subs/g.subs/h.subs/i.subs/j.subs/k.subs/l.subs/m.subs/n.subs/o.subs/p.subs/q.subs/r.subs/s.subs/t.subs/u.subs/v.subs/w.subs/x.subs/y.subs/z.subs/a.sups/b.sups/c.sups/d.sups/e.sups/f.sups/g.sups/h.sups/i.sups/j.sups/k.sups/l.sups/m.sups/n.sups/o.sups/p.sups/q.sups/r.sups/s.sups/t.sups/u.sups/v.sups/w.sups/x.sups/y.sups/z.sups ªº0123456789/zero.zero/zero.lf/one.lf/two.lf/three.lf/four.lf/five.lf/six.lf/seven.lf/eight.lf/nine.lf/zero.sc/one.sc/two.sc/three.sc/four.sc/five.sc/six.sc/seven.sc/eight.sc/nine.sc/zero.tf/one.tf/two.tf/three.tf/four.tf/five.tf/six.tf/seven.tf/eight.tf/nine.tf/zero.tosf/one.tosf/two.tosf/three.tosf/four.tosf/five.tosf/six.tosf/seven.tosf/eight.tosf/nine.tosf/zero.lf.ss10/one.lf.ss10/two.lf.ss10/three.lf.ss10/four.lf.ss10/five.lf.ss10/six.lf.ss10/seven.lf.ss10/eight.lf.ss10/nine.lf.ss10/zero.lf.zero/zero.sc.ss10/one.sc.ss10/two.sc.ss10/three.sc.ss10/four.sc.ss10/five.sc.ss10/six.sc.ss10/seven.sc.ss10/eight.sc.ss10/nine.sc.ss10/zero.sc.zero/zero.tf.sc/one.tf.sc/two.tf.sc/three.tf.sc/four.tf.sc/five.tf.sc/six.tf.sc/seven.tf.sc/eight.tf.sc/nine.tf.sc/zero.tf.zero/zero.tosf.zero/zero.tf.sc.zero/zero.subs/one.subs/two.subs/three.subs/four.subs/five.subs/six.subs/seven.subs/eight.subs/nine.subs/zero.dnom/one.dnom/two.dnom/three.dnom/four.dnom/five.dnom/six.dnom/seven.dnom/eight.dnom/nine.dnom/zero.numr/one.numr/two.numr/three.numr/four.numr/five.numr/six.numr/seven.numr/eight.numr/nine.numr ¹²³⁴/zero.sups/one.sups/two.sups/three.sups/four.sups/five.sups/six.sups/seven.sups/eight.sups/nine.sups ⁄½¼¾/zero.subs.zero/zero.dnom.zero/zero.numr.zero/zero.sups.zero   .,:;…!¡?¿·•*⁂‽#․⸫///backslash ‥⸪/exclamdown.case/questiondown.case/periodcentered.case/bullet.case/numbersign.case/onedotovertwodots.case/slash.case/backslash.case/twodotsoveronedot.case/periodcentered.loclCAT/exclam.sc/exclamdown.sc/question.sc/questiondown.sc/periodcentered.sc/bullet.sc/asterisk.sc/asterism.sc/interrobang.sc/numbersign.sc/onedotovertwodots.sc/slash.sc/backslash.sc/twodotsoveronedot.sc/period.subs/comma.subs/period.sups/comma.sups/asterisk.sups/periodcentered.loclCAT.case/periodcentered.loclCAT.sc -­–—_/hyphen.case/endash.case/emdash.case/hyphen.sc/endash.sc/emdash.sc/hyphen.sups/endash.sups/emdash.sups (){}[]/parenleft.case/parenright.case/braceleft.case/braceright.case/bracketleft.case/bracketright.case/parenleft.sc/parenright.sc/braceleft.sc/braceright.sc/bracketleft.sc/bracketright.sc/parenleft.sups/parenright.sups/braceleft.sups/braceright.sups/bracketleft.sups/bracketright.sups ‚„“”‘’«»‹›\"'/guillemetleft.case/guillemetright.case/guilsinglleft.case/guilsinglright.case/quotedblleft.sc/quotedblright.sc/quoteleft.sc/quoteright.sc/guillemetleft.sc/guillemetright.sc/guilsinglleft.sc/guilsinglright.sc/quotedbl.sc/quotesingle.sc ƒ/florin.sc/florin.sups ✠@&¶§©®™°|¦†‡℮№/malteseCross.case/at.case/malteseCross.sc/at.sc/ampersand.sc/paragraph.sc/section.sc/copyright.sc/registered.sc/trademark.sc/degree.sc/bar.sc/brokenbar.sc/dagger.sc/daggerdbl.sc/numero.sc/paragraph.sups/section.sups/dagger.sups/daggerdbl.sups/paragraph.ss01 ₿¢₡¤$€₣£¥/currency.case/bitcoin.sc/cent.sc/colonmonetary.sc/currency.sc/dollar.sc/euro.sc/franc.sc/sterling.sc/yen.sc/bitcoin.sups/cent.sups/colonmonetary.sups/dollar.sups/euro.sups/franc.sups/sterling.sups/yen.sups ∕+−×÷=≠><≥≤±≈~¬^∅∞∫∏∑√∂µ%‰‱⟐/plus.case/minus.case/multiply.case/divide.case/equal.case/notequal.case/greater.case/less.case/greaterequal.case/lessequal.case/plusminus.case/approxequal.case/asciitilde.case/logicalnot.case/infinity.case/emptyset.case/whiteDiamondWithCentredDot.case/plus.sc/minus.sc/multiply.sc/divide.sc/equal.sc/notequal.sc/greater.sc/less.sc/greaterequal.sc/lessequal.sc/plusminus.sc/approxequal.sc/asciitilde.sc/logicalnot.sc/asciicircum.sc/emptyset.sc/infinity.sc/integral.sc/product.sc/summation.sc/radical.sc/partialdiff.sc/percent.sc/perthousand.sc/pertenthousand.sc/whiteDiamondWithCentredDot.sc/plus.sups/minus.sups ◦◆◇❖◈◊■□/whitebullet.case/blackDiamond.case/whiteDiamond.case/blackInWhiteDiamond.case/whiteXBlackDiamond.case/blackSquare.case/whiteSquare.case/whitebullet.sc/blackDiamond.sc/whiteDiamond.sc/whiteXBlackDiamond.sc/blackInWhiteDiamond.sc/lozenge.sc/blackSquare.sc/whiteSquare.sc ̧̨̣̦̈̇̀́̋̂̌̆̊̃̄¨˙`´˝ˆˇ˘˚˜¯¸˛/dieresiscomb.case/dotaccentcomb.case/gravecomb.case/acutecomb.case/hungarumlautcomb.case/circumflexcomb.case/caroncomb.case/brevecomb.case/ringcomb.case/tildecomb.case/macroncomb.case/acutecomb.loclPLK/dieresiscomb.sc/dotaccentcomb.sc/gravecomb.sc/acutecomb.sc/hungarumlautcomb.sc/circumflexcomb.sc/caroncomb.sc/brevecomb.sc/ringcomb.sc/tildecomb.sc/macroncomb.sc/acutecomb.loclPLK.case/acutecomb.loclPLK.sc/ornament300/ornament301/ornament302/ornament303/ornament304/ornament305/ornament306/ornament307/ornament308/ornament309/ornament310/ornament311/ornament312/ornament313/ornament314/ornament315/ornament316/ornament317/ornament318/ornament319/ornament320/ornament321/ornament322/ornament323/ornament000/ornament001/ornament002/ornament003/ornament100/ornament101/ornament102/ornament104/ornament105/ornament130/ornament140/ornament108/ornament106/ornament107/ornament109/ornament350/ornament351/ornament352/ornament353/ornament354/ornament355/ornament356/ornament357/ornament103/ornament200/ornament201/ornament202/ornament203/ornament204/ornament205/ornament206/ornament207/ijacute/IJacute/ijacute.sc/serifLC/serifLC_ascender/serifSUPS_ascender/serifUC"
+);
 classes = (
 {
 automatic = 1;
@@ -51572,7 +51575,7 @@ unicode = 57396;
 {
 color = 6;
 glyphname = ornament205;
-lastChange = "2022-03-18 09:39:33 +0000";
+lastChange = "2022-04-22 08:23:03 +0000";
 layers = (
 {
 layerId = "6D97EE47-94AA-478E-ABFB-936E6C32B491";
@@ -51605,35 +51608,53 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(329,57,o),
-(192,189,o),
-(85,249,c),
-(118,258,o),
-(293,386,o),
-(382,537,c),
-(442,420,o),
-(579,288,o),
-(686,229,c),
-(653,220,o),
-(478,92,o),
+(364,-12,o),
+(325,40,o),
+(281,88,c),
+(388,213,l),
+(499,81,l),
+(458,39,o),
+(419,-10,o),
 (389,-61,c)
 );
 },
 {
 closed = 1;
 nodes = (
-(206,108,l),
+(186,181,o),
+(133,222,o),
+(85,249,c),
+(103,254,o),
+(162,294,o),
+(227,353,c),
 (361,240,l),
-(215,363,l),
-(265,413,l),
-(388,267,l),
-(520,422,l),
-(570,372,l),
+(236,134,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(276,400,l),
+(315,441,o),
+(353,488,o),
+(382,537,c),
+(407,488,o),
+(446,436,o),
+(491,388,c),
+(388,267,l)
+);
+},
+{
+closed = 1;
+nodes = (
 (415,240,l),
-(561,117,l),
-(511,67,l),
-(388,213,l),
-(256,58,l)
+(536,343,l),
+(585,296,o),
+(639,255,o),
+(686,229,c),
+(668,224,o),
+(611,186,o),
+(548,128,c)
 );
 }
 );
