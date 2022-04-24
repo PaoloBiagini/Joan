@@ -1,5 +1,5 @@
 # Joan
-Inspired by the roman cut by Francesco Griffo, it is a tribute to the Italian style, a model to follow even in the 15th century.  
+Inspired by the romans cut by Francesco Griffo, it is a tribute to the Italian style, a model to follow even in the 15th century.  
 Joan is characterized by neat serifs as well as sharp terminals and is intended for books and magazines.  
 The font supports the complete Latin Plus character set.  
 At the moment, only the roman is available. The italic variant is under development.
@@ -8,7 +8,7 @@ At the moment, only the roman is available. The italic variant is under developm
 Paolo Biagini
 
 # Contributors
-Emma Marichal
+Emma Marichal - *font onboarder*
 
 ![Joan_1](https://user-images.githubusercontent.com/69169805/163816282-c6d17eba-73b4-4bb1-9038-f5e1458f4bf5.png)
 ![Joan_2](https://user-images.githubusercontent.com/69169805/163816291-d53442b5-97f1-43e1-bc5f-d480fcb606c5.png)
