@@ -10,14 +10,14 @@ Paolo Biagini
 # Contributors
 Emma Marichal - *font onboarder*
 
-![Joan_1](https://user-images.githubusercontent.com/69169805/163816282-c6d17eba-73b4-4bb1-9038-f5e1458f4bf5.png)
-![Joan_2](https://user-images.githubusercontent.com/69169805/163816291-d53442b5-97f1-43e1-bc5f-d480fcb606c5.png)
-![Joan_3](https://user-images.githubusercontent.com/69169805/163816295-501114cd-560b-41b4-97c2-cca30a03a61e.png)
-![Joan_4](https://user-images.githubusercontent.com/69169805/163816298-2d6db37c-6719-42db-8479-8df7b988c527.png)
-![Joan_5](https://user-images.githubusercontent.com/69169805/163831838-d494fc85-fb77-4e71-84b8-c27100472a60.png)
-![Joan_6](https://user-images.githubusercontent.com/69169805/163816306-0eb8dc46-4088-46d1-89a1-6d949e61a40c.png)
-![Joan_7](https://user-images.githubusercontent.com/69169805/163816308-91b0fd3f-e34c-451d-9ca1-66f28090113c.png)
-![Joan_8](https://user-images.githubusercontent.com/69169805/163816311-e439bc07-5514-49f3-af5d-cbed7e999ca5.png)
+![Joan_1](https://github.com/PaoloBiagini/Joan/assets/69169805/cc16db26-24cb-4643-a690-be6a2145da33)
+![Joan_2](https://github.com/PaoloBiagini/Joan/assets/69169805/84d9496b-c781-4a86-a342-a08ac21f7325)
+![Joan_3](https://github.com/PaoloBiagini/Joan/assets/69169805/1c9b372e-759d-4357-8d00-b974735466df)
+![Joan_4](https://github.com/PaoloBiagini/Joan/assets/69169805/bde352ae-c563-4180-869b-1fe1450de187)
+![Joan_5](https://github.com/PaoloBiagini/Joan/assets/69169805/f7858546-03ee-4834-8512-47a4f8721e1d)
+![Joan_6](https://github.com/PaoloBiagini/Joan/assets/69169805/2d8ad1c9-4c85-44b0-b57b-a46258b62a76)
+![Joan_7](https://github.com/PaoloBiagini/Joan/assets/69169805/e3266e3d-d122-4aba-9981-9434358f5f69)
+![Joan_8](https://github.com/PaoloBiagini/Joan/assets/69169805/665b2dca-53e1-4073-9789-64e7072734d6)
 
 # Changelog
 #### v1.000
