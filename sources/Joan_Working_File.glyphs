@@ -1206,7 +1206,7 @@ sub zacute.loclPLK.sc by zacute.loclPLK.sc.ss01;
 labels = (
 {
 language = dflt;
-value = "";
+value = ss01;
 }
 );
 tag = ss01;
@@ -1297,7 +1297,7 @@ sub nine.sc by nine.sc.ss10;
 labels = (
 {
 language = dflt;
-value = "";
+value = ss10;
 }
 );
 tag = ss10;
@@ -1388,7 +1388,7 @@ sub nine.sc by nine.sc.ss11;
 labels = (
 {
 language = dflt;
-value = "";
+value = ss11;
 }
 );
 tag = ss11;
@@ -1479,7 +1479,7 @@ sub nine.sc by nine.sc.ss12;
 labels = (
 {
 language = dflt;
-value = "";
+value = ss12;
 }
 );
 tag = ss12;
