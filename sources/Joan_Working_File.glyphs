@@ -1,5 +1,5 @@
 {
-.appVersion = "3343";
+.appVersion = "3428";
 .formatVersion = 3;
 classes = (
 {
@@ -1510,11 +1510,11 @@ fontMaster = (
 customParameters = (
 {
 name = typoAscender;
-value = 789;
+value = 1000;
 },
 {
 name = typoDescender;
-value = -303;
+value = -292;
 },
 {
 name = typoLineGap;
@@ -1534,7 +1534,7 @@ value = 1000;
 },
 {
 name = hheaDescender;
-value = -303;
+value = -292;
 },
 {
 name = hheaLineGap;
@@ -1546,7 +1546,7 @@ value = 1117;
 },
 {
 name = winDescent;
-value = 589;
+value = 615;
 },
 {
 name = "Alignment Zones";

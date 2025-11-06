@@ -2,3 +2,6 @@
       - Joan.glyphs
     familyName: "Joan"
     buildVariable: false
+    buildSmallCap: false
+    cleanUp: true
+    
