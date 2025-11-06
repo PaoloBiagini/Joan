@@ -1,6 +1,9 @@
 {
 .appVersion = "3428";
 .formatVersion = 3;
+DisplayStrings = (
+"₿"
+);
 classes = (
 {
 automatic = 1;
@@ -67834,7 +67837,7 @@ width = 325;
 glyphname = bitcoin;
 kernLeft = H;
 kernRight = B;
-lastChange = "2025-07-23 22:17:23 +0000";
+lastChange = "2025-11-06 14:32:49 +0000";
 layers = (
 {
 layerId = "6D97EE47-94AA-478E-ABFB-936E6C32B491";
@@ -67858,6 +67861,11 @@ nodes = (
 );
 },
 {
+pos = (2,0);
+ref = B;
+scale = (0.96,0.96);
+},
+{
 closed = 1;
 nodes = (
 (263,685,l),
@@ -67869,16 +67877,11 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(379,685,l),
+(379,675,l),
 (379,815,l),
 (337,815,l),
-(337,685,l)
+(337,675,l)
 );
-},
-{
-pos = (2,0);
-ref = B;
-scale = (0.96,0.96);
 }
 );
 width = 604;
@@ -83611,7 +83614,7 @@ unicode = 731;
 },
 {
 glyphname = ornament300;
-lastChange = "2025-07-23 22:17:23 +0000";
+lastChange = "2025-11-06 14:31:42 +0000";
 layers = (
 {
 background = {
@@ -83656,9 +83659,6 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(809,210,l),
-(697,52,l),
-(723,33,l),
 (783,109,o),
 (842,168,o),
 (905,222,c),
@@ -83669,7 +83669,10 @@ nodes = (
 (697,404,l),
 (809,246,l),
 (28,252,l),
-(28,204,l)
+(28,204,l),
+(809,210,l),
+(697,52,l),
+(723,33,l)
 );
 }
 );
