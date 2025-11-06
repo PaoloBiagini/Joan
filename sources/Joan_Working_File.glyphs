@@ -61939,6 +61939,28 @@ metricWidth = space;
 unicode = 160;
 },
 {
+glyphname = lineseparator;
+lastChange = "2025-11-06 14:30:21 +0000";
+layers = (
+{
+layerId = "6D97EE47-94AA-478E-ABFB-936E6C32B491";
+width = 600;
+}
+);
+unicode = 8232;
+},
+{
+glyphname = paragraphseparator;
+lastChange = "2025-11-06 14:30:21 +0000";
+layers = (
+{
+layerId = "6D97EE47-94AA-478E-ABFB-936E6C32B491";
+width = 600;
+}
+);
+unicode = 8233;
+},
+{
 glyphname = hyphen;
 kernLeft = hyphen;
 kernRight = hyphen;
