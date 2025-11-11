@@ -1,4 +1,7 @@
     sources:
-      - Joan.glyphs
+      - Joan_Merged_Paths.glyphs
     familyName: "Joan"
     buildVariable: false
+    buildSmallCap: false
+    cleanUp: true
+    
